@@ -238,3 +238,28 @@ If you like this project, don't forget to **Star ⭐ the repository** and share 
 **Designed to deliver a premium multiplayer gaming experience.**
 
 </p>
+
+---
+
+# 👨‍💻 Credits
+
+## Project Author
+
+**Zaid Malik**
+
+This project was designed and developed by **Zaid Malik** as part of a university hackathon assignment. It showcases modern UI/UX design, real-time multiplayer gameplay, responsive interfaces, and clean Python development using Streamlit.
+
+### Connect with Me
+
+* **GitHub:** https://github.com/zm232323
+
+---
+
+<p align="center">
+
+Made with ❤️ by <strong>Zaid Malik</strong>
+
+⭐ If you found this project helpful, don't forget to star the repository!
+
+</p>
+
