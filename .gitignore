@@ -17,8 +17,6 @@ env/
 .streamlit/secrets.toml
 
 # Runtime / game data (auto-generated, don't commit real player data)
-data/rooms.json
-data/activity_log.json
 data/*.lock
 
 # OS files

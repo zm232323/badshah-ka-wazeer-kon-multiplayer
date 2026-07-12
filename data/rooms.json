@@ -1,0 +1,137 @@
+{
+  "MHLBK": {
+    "room_code": "MHLBK",
+    "host_id": "213f266bc8",
+    "players": [
+      {
+        "id": "213f266bc8",
+        "name": "Zaid",
+        "avatar": "\ud83e\udd81",
+        "score": 120,
+        "connected": true
+      },
+      {
+        "id": "0c88d0ec77",
+        "name": "Fahad",
+        "avatar": "\ud83e\udd81",
+        "score": 100,
+        "connected": true
+      },
+      {
+        "id": "c08d4e9d50",
+        "name": "Hammad",
+        "avatar": "\ud83e\udd81",
+        "score": -20,
+        "connected": true
+      },
+      {
+        "id": "01c88d6da1",
+        "name": "H",
+        "avatar": "\ud83e\udd81",
+        "score": 50,
+        "connected": true
+      }
+    ],
+    "max_players": 4,
+    "total_rounds": 1,
+    "current_round": 1,
+    "status": "result",
+    "roles": {
+      "213f266bc8": "Chor",
+      "0c88d0ec77": "Badshah",
+      "c08d4e9d50": "Wazeer",
+      "01c88d6da1": "Sipahi"
+    },
+    "revealed_roles": [
+      "Badshah",
+      "Wazeer",
+      "Sipahi",
+      "Chor"
+    ],
+    "chor_candidates": [
+      "01c88d6da1",
+      "213f266bc8"
+    ],
+    "wazeer_guess": "01c88d6da1",
+    "actual_chor": "213f266bc8",
+    "guess_correct": false,
+    "round_history": [
+      {
+        "round": 1,
+        "roles": {
+          "Zaid": "Chor",
+          "Fahad": "Badshah",
+          "Hammad": "Wazeer",
+          "H": "Sipahi"
+        },
+        "guessed": "H",
+        "actual_chor": "Zaid",
+        "correct": false,
+        "points": {
+          "Zaid": 120,
+          "Fahad": 100,
+          "Hammad": -20,
+          "H": 50
+        }
+      }
+    ],
+    "chat": [],
+    "scoring_config": {
+      "correct": {
+        "Badshah": 100,
+        "Wazeer": 80,
+        "Sipahi": 50,
+        "Chor": 0
+      },
+      "incorrect": {
+        "Badshah": 100,
+        "Wazeer": -20,
+        "Sipahi": 50,
+        "Chor": 120
+      }
+    },
+    "guess_deadline": 1783810970.683616,
+    "created_at": 1783810841.0529737
+  },
+  "AAWA3": {
+    "room_code": "AAWA3",
+    "host_id": "f0be2e5776",
+    "players": [
+      {
+        "id": "f0be2e5776",
+        "name": "zaid",
+        "avatar": "\ud83e\udd81",
+        "score": 0,
+        "connected": true
+      }
+    ],
+    "max_players": 4,
+    "total_rounds": 5,
+    "current_round": 0,
+    "status": "waiting",
+    "roles": {},
+    "revealed_roles": [],
+    "chor_candidates": [],
+    "wazeer_guess": null,
+    "actual_chor": null,
+    "guess_correct": null,
+    "round_history": [],
+    "chat": [],
+    "scoring_config": {
+      "correct": {
+        "Badshah": 100,
+        "Wazeer": 80,
+        "Sipahi": 50,
+        "Chor": 0
+      },
+      "incorrect": {
+        "Badshah": 100,
+        "Wazeer": -20,
+        "Sipahi": 50,
+        "Chor": 120
+      }
+    },
+    "guess_deadline": null,
+    "created_at": 1783852156.2564712
+  }
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "ts": 1783810841.056075,
+    "type": "room_created",
+    "detail": "MHLBK by Zaid"
+  },
+  {
+    "ts": 1783810951.3267817,
+    "type": "round_completed",
+    "detail": "room=MHLBK round=1 correct=False"
+  },
+  {
+    "ts": 1783852156.282677,
+    "type": "room_created",
+    "detail": "AAWA3 by zaid"
+  }
+]
